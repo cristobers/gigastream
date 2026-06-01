@@ -11,7 +11,6 @@ public class DatabaseInitialise {
 
     public DatabaseInitialise() {
         GetInstance();
-        // connection = DriverManager.getConnection("jdbc:sqlite:auth.db");
         SetupDatabase();
     }
 
