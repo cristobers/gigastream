@@ -1,5 +1,7 @@
 # gigastream - NGINX RTMP Authentication
 
+Small authentication API used with NGINX's RTMP protocol, used internally to allow users to stream via OBS.
+
 ## Useful links
 
 * https://github.com/Nesseref/nginx-rtmp-auth
